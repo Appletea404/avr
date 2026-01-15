@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/appletea/workspace_onedevice_2/avr/atmega128a/build",
+  "command": "/opt/microchip/avr-gcc/bin/avr-gcc -DF_CPU=16000000UL -I/home/appletea/workspace_onedevice_2/avr/atmega128a/src -I/home/appletea/workspace_onedevice_2/avr/atmega128a/src/ap -I/home/appletea/workspace_onedevice_2/avr/atmega128a/src/bsp -I/home/appletea/workspace_onedevice_2/avr/atmega128a/src/hw -I/home/appletea/workspace_onedevice_2/avr/atmega128a/src/common -I/home/appletea/workspace_onedevice_2/avr/atmega128a/src/common/hw/include -mmcu=atmega128a -g -std=gnu11 -fdata-sections -ffunction-sections -MMD -flto -fno-fat-lto-objects -Wall -Os -g3 -o CMakeFiles/atmega128a.elf.dir/main.c.obj -c /home/appletea/workspace_onedevice_2/avr/atmega128a/main.c",
+  "file": "/home/appletea/workspace_onedevice_2/avr/atmega128a/main.c",
+  "output": "CMakeFiles/atmega128a.elf.dir/main.c.obj"
+},
+{
+  "directory": "/home/appletea/workspace_onedevice_2/avr/atmega128a/build",
+  "command": "/opt/microchip/avr-gcc/bin/avr-gcc -DF_CPU=16000000UL -I/home/appletea/workspace_onedevice_2/avr/atmega128a/src -I/home/appletea/workspace_onedevice_2/avr/atmega128a/src/ap -I/home/appletea/workspace_onedevice_2/avr/atmega128a/src/bsp -I/home/appletea/workspace_onedevice_2/avr/atmega128a/src/hw -I/home/appletea/workspace_onedevice_2/avr/atmega128a/src/common -I/home/appletea/workspace_onedevice_2/avr/atmega128a/src/common/hw/include -mmcu=atmega128a -g -std=gnu11 -fdata-sections -ffunction-sections -MMD -flto -fno-fat-lto-objects -Wall -Os -g3 -o CMakeFiles/atmega128a.elf.dir/src/ap/ap.c.obj -c /home/appletea/workspace_onedevice_2/avr/atmega128a/src/ap/ap.c",
+  "file": "/home/appletea/workspace_onedevice_2/avr/atmega128a/src/ap/ap.c",
+  "output": "CMakeFiles/atmega128a.elf.dir/src/ap/ap.c.obj"
+},
+{
+  "directory": "/home/appletea/workspace_onedevice_2/avr/atmega128a/build",
+  "command": "/opt/microchip/avr-gcc/bin/avr-gcc -DF_CPU=16000000UL -I/home/appletea/workspace_onedevice_2/avr/atmega128a/src -I/home/appletea/workspace_onedevice_2/avr/atmega128a/src/ap -I/home/appletea/workspace_onedevice_2/avr/atmega128a/src/bsp -I/home/appletea/workspace_onedevice_2/avr/atmega128a/src/hw -I/home/appletea/workspace_onedevice_2/avr/atmega128a/src/common -I/home/appletea/workspace_onedevice_2/avr/atmega128a/src/common/hw/include -mmcu=atmega128a -g -std=gnu11 -fdata-sections -ffunction-sections -MMD -flto -fno-fat-lto-objects -Wall -Os -g3 -o CMakeFiles/atmega128a.elf.dir/src/driver/button.c.obj -c /home/appletea/workspace_onedevice_2/avr/atmega128a/src/driver/button.c",
+  "file": "/home/appletea/workspace_onedevice_2/avr/atmega128a/src/driver/button.c",
+  "output": "CMakeFiles/atmega128a.elf.dir/src/driver/button.c.obj"
+},
+{
+  "directory": "/home/appletea/workspace_onedevice_2/avr/atmega128a/build",
+  "command": "/opt/microchip/avr-gcc/bin/avr-gcc -DF_CPU=16000000UL -I/home/appletea/workspace_onedevice_2/avr/atmega128a/src -I/home/appletea/workspace_onedevice_2/avr/atmega128a/src/ap -I/home/appletea/workspace_onedevice_2/avr/atmega128a/src/bsp -I/home/appletea/workspace_onedevice_2/avr/atmega128a/src/hw -I/home/appletea/workspace_onedevice_2/avr/atmega128a/src/common -I/home/appletea/workspace_onedevice_2/avr/atmega128a/src/common/hw/include -mmcu=atmega128a -g -std=gnu11 -fdata-sections -ffunction-sections -MMD -flto -fno-fat-lto-objects -Wall -Os -g3 -o CMakeFiles/atmega128a.elf.dir/src/driver/fnd.c.obj -c /home/appletea/workspace_onedevice_2/avr/atmega128a/src/driver/fnd.c",
+  "file": "/home/appletea/workspace_onedevice_2/avr/atmega128a/src/driver/fnd.c",
+  "output": "CMakeFiles/atmega128a.elf.dir/src/driver/fnd.c.obj"
+},
+{
+  "directory": "/home/appletea/workspace_onedevice_2/avr/atmega128a/build",
+  "command": "/opt/microchip/avr-gcc/bin/avr-gcc -DF_CPU=16000000UL -I/home/appletea/workspace_onedevice_2/avr/atmega128a/src -I/home/appletea/workspace_onedevice_2/avr/atmega128a/src/ap -I/home/appletea/workspace_onedevice_2/avr/atmega128a/src/bsp -I/home/appletea/workspace_onedevice_2/avr/atmega128a/src/hw -I/home/appletea/workspace_onedevice_2/avr/atmega128a/src/common -I/home/appletea/workspace_onedevice_2/avr/atmega128a/src/common/hw/include -mmcu=atmega128a -g -std=gnu11 -fdata-sections -ffunction-sections -MMD -flto -fno-fat-lto-objects -Wall -Os -g3 -o CMakeFiles/atmega128a.elf.dir/src/driver/led.c.obj -c /home/appletea/workspace_onedevice_2/avr/atmega128a/src/driver/led.c",
+  "file": "/home/appletea/workspace_onedevice_2/avr/atmega128a/src/driver/led.c",
+  "output": "CMakeFiles/atmega128a.elf.dir/src/driver/led.c.obj"
+},
+{
+  "directory": "/home/appletea/workspace_onedevice_2/avr/atmega128a/build",
+  "command": "/opt/microchip/avr-gcc/bin/avr-gcc -DF_CPU=16000000UL -I/home/appletea/workspace_onedevice_2/avr/atmega128a/src -I/home/appletea/workspace_onedevice_2/avr/atmega128a/src/ap -I/home/appletea/workspace_onedevice_2/avr/atmega128a/src/bsp -I/home/appletea/workspace_onedevice_2/avr/atmega128a/src/hw -I/home/appletea/workspace_onedevice_2/avr/atmega128a/src/common -I/home/appletea/workspace_onedevice_2/avr/atmega128a/src/common/hw/include -mmcu=atmega128a -g -std=gnu11 -fdata-sections -ffunction-sections -MMD -flto -fno-fat-lto-objects -Wall -Os -g3 -o CMakeFiles/atmega128a.elf.dir/src/driver/uart0.c.obj -c /home/appletea/workspace_onedevice_2/avr/atmega128a/src/driver/uart0.c",
+  "file": "/home/appletea/workspace_onedevice_2/avr/atmega128a/src/driver/uart0.c",
+  "output": "CMakeFiles/atmega128a.elf.dir/src/driver/uart0.c.obj"
+}
+]
