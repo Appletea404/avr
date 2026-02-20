@@ -231,7 +231,7 @@ CMAKE_STRIP:FILEPATH=/opt/microchip/avr-gcc/bin/avr-strip
 //Path to a program.
 CMAKE_TAPI:FILEPATH=CMAKE_TAPI-NOTFOUND
 
-//No help, variable specified on the command line.
+//The CMake toolchain file
 CMAKE_TOOLCHAIN_FILE:FILEPATH=/home/appletea/workspace_onedevice_2/avr/atmega128a/tools/avr-toolchain.cmake
 
 //If this value is on, makefiles will be generated without the
@@ -364,6 +364,8 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
 CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=1
+//ADVANCED property for variable: CMAKE_OBJCOPY
+CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //objcopy tool
 CMAKE_OBJCOPY:INTERNAL=/opt/microchip/avr-gcc/bin/avr-objcopy
 //ADVANCED property for variable: CMAKE_OBJDUMP
